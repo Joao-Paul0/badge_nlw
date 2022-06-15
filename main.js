@@ -3,7 +3,7 @@ const linksSocialMedia = {
   instagram: "joaopauloo0__0",
   facebook: "rocketseat",
   youtube: "rocketseat",
-  twitter: "rocketseat",
+  twitter: "jaopaulo0__0",
 };
 
 function changeSocialMediaLinks() {
